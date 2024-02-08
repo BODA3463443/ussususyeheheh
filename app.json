@@ -1,0 +1,28 @@
+{
+    "name": "  ",
+    "description": "   ",
+    "stack": "container",
+    "logo": "https://telegra.ph/file/bd0fde82d09f7681afc99.jpg",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "env": {0
+        "api_id": {29755247
+            "description": " ",
+            "value": "",
+            "required": true
+        },
+        "api_hash": {8dd9fb5fa2782d91b9847ace66eb885a} 
+            "description": " ",
+            "value": "0",
+            "required": true
+        },
+        "bot_token": {6192207808:AAGCpvOXPoXZaXXmOujHJugdokG9lEOAUQo} 
+            "description": " ",
+            "value": "0",
+            "required": true
+    }
+  }
+} 
